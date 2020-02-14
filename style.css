@@ -17,6 +17,7 @@ header div {
 }
 
 footer {
+    padding-top: 1%;
     border: black;
     border-style: solid none none;
     border-width: 3px;
